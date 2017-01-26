@@ -1,0 +1,14 @@
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\RotaGeek.Tests.dll.config
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\RotaGeek.Tests.dll
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\RotaGeek.Tests.pdb
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\LookupRotaGeek.dll
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\WebDriver.dll
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\WebDriver.Support.dll
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\LookupRotaGeek.pdb
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\WebDriver.xml
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\WebDriver.Support.xml
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\obj\Debug\RotaGeek.Tests.csprojResolveAssemblyReference.cache
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\obj\Debug\RotaGeek.Tests.dll
+C:\RotaGeek\LookupRotaGeek\RotaGeek.Tests\obj\Debug\RotaGeek.Tests.pdb

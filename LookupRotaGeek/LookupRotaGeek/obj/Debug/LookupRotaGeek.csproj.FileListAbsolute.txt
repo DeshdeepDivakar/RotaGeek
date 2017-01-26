@@ -1,0 +1,9 @@
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\bin\Debug\LookupRotaGeek.dll
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\bin\Debug\LookupRotaGeek.pdb
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\bin\Debug\WebDriver.dll
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\bin\Debug\WebDriver.Support.dll
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\bin\Debug\WebDriver.xml
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\bin\Debug\WebDriver.Support.xml
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\obj\Debug\LookupRotaGeek.dll
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\obj\Debug\LookupRotaGeek.pdb
+C:\RotaGeek\LookupRotaGeek\LookupRotaGeek\obj\Debug\LookupRotaGeek.csprojResolveAssemblyReference.cache
